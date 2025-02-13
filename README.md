@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yacine! <br/><a
+<h1>Hi, I'm Sofix! <br/><a
 # My Portfolio
 Welcome to my portfolio! Here you can find my projects and details about my experience.
 ![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
